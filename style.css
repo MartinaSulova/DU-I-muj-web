@@ -1,0 +1,36 @@
+body{
+    font-family: 'Lato', sans-serif;
+    line-height: 1.5;
+    font-size: 20px;
+    margin-left: 150px;
+    margin-right: 350px;
+    background-color: #d3ebfa;
+    color: navy;
+}
+
+img{
+    width: 20%;
+    height: 20%;
+    float: left;
+    overflow: auto;
+    border-radius: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+   }
+
+.vzdelani{
+    clear: both;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+.jazyky{
+    list-style-type: square;
+}
+
+.osobni{
+    padding-top: 60px;
+}
