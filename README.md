@@ -1,2 +1,2 @@
-# DU-I-muj-web
+# DU-I-prvniDU
 muj web
